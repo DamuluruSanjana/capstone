@@ -1,5 +1,5 @@
 # Capstone Project
--------------------------------------------------------------------Incremental detection of text inconsistencies in big data--------------------------------------------------------------------------------------------
+  Incremental detection of text inconsistencies in big data
 
 Introduction : Incremental detection of text inconsistencies in big data involves continuously monitoring and identifying discrepancies or anomalies in real-time data streams. This method ensures data integrity without overwhelming the system with large-scale batch processing. A solution includes using machine learning algorithms like anomaly detection or Natural Language Processing (NLP) techniques to detect and flag inconsistencies as new data is ingested.
 

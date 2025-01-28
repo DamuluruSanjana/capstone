@@ -1,0 +1,116 @@
+#TextGraph Insight Model
+import pandas as pd
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from transformers import pipeline
+import matplotlib.pyplot as plt
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report, accuracy_score
+import numpy as np
+import random
+
+nltk.download('punkt')
+nltk.download('stopwords')
+
+# Step 1: Problem Definition
+# Incremental detection of text inconsistencies using big data
+
+# Step 2: Dataset Collection
+# Creating synthetic data for large-scale text dataset
+def generate_synthetic_data(size):
+    synthetic_data = []
+    for i in range(1, size + 1):
+        if i % 10 == 0:
+            sentence = f"This is a contradictory sentence number {i}, which disagrees with previous data."
+        elif i % 15 == 0:
+            sentence = f"This is a redundant sentence number {i}, repeating earlier information."
+        else:
+            sentence = f"This is sample sentence number {i}."
+        synthetic_data.append(sentence)
+    return synthetic_data
+
+large_data = generate_synthetic_data(100000)
+
+# Convert the dataset into a DataFrame
+df = pd.DataFrame(large_data, columns=["text"])
+
+# Step 3: Data Preprocessing
+def preprocess_text(text):
+    stop_words = set(nltk.corpus.stopwords.words('english'))
+    # Simple tokenization without sent_tokenize
+    words = text.split()  
+    words = [word.lower() for word in words if word.isalnum() and word.lower() not in stop_words]
+    return " ".join(words)
+# def preprocess_text(text):
+#     stop_words = set(stopwords.words('english'))
+#     words = word_tokenize(text)
+#     words = [word.lower() for word in words if word.isalnum() and word.lower() not in stop_words]
+#     return " ".join(words)
+
+df['cleaned_text'] = df['text'].apply(preprocess_text)
+
+# Step 4: Incremental Detection of Inconsistencies
+# Use TF-IDF to transform text data
+vectorizer = TfidfVectorizer(max_features=10000)
+tfidf_matrix = vectorizer.fit_transform(df['cleaned_text'])
+
+# Cosine Similarity for detecting repetitions or contradictions
+def detect_inconsistencies(tfidf_matrix, threshold=0.7):
+    similarity_matrix = cosine_similarity(tfidf_matrix)
+    inconsistencies = []
+    for i in range(similarity_matrix.shape[0]):
+        for j in range(i + 1, similarity_matrix.shape[1]):
+            if similarity_matrix[i, j] > threshold:
+                inconsistencies.append((i, j, similarity_matrix[i, j]))
+    return inconsistencies
+
+# Detect inconsistencies incrementally
+batch_size = 1000
+for batch_start in range(0, tfidf_matrix.shape[0], batch_size):
+    batch_end = min(batch_start + batch_size, tfidf_matrix.shape[0])
+    batch_matrix = tfidf_matrix[batch_start:batch_end]
+    inconsistencies = detect_inconsistencies(batch_matrix)
+    print(f"Batch {batch_start // batch_size + 1}: Detected {len(inconsistencies)} inconsistencies")
+
+# Step 5: Train Machine Learning Model for Contradiction Detection
+labels = [
+    "contradiction" if "contradictory" in text else "neutral" 
+    for text in df['text']
+]
+label_mapping = {"neutral": 0, "contradiction": 1}
+y = pd.Series(labels).map(label_mapping)
+
+X_train, X_test, y_train, y_test = train_test_split(tfidf_matrix, y, test_size=0.2, random_state=42)
+model = LogisticRegression()
+model.fit(X_train, y_train)
+
+# Evaluate the Model
+y_pred = model.predict(X_test)
+print("Classification Report:\n", classification_report(y_test, y_pred))
+print("Accuracy:", accuracy_score(y_test, y_pred))
+
+# Step 6: Real-time Incremental Processing
+new_data = [
+    "The company reported growth in 2020.",
+    "The company experienced losses in 2020.",
+    "This is a contradictory sentence that disputes earlier claims."
+]
+new_data_cleaned = [preprocess_text(text) for text in new_data]
+new_tfidf_matrix = vectorizer.transform(new_data_cleaned)
+new_predictions = model.predict(new_tfidf_matrix)
+
+for text, pred in zip(new_data, new_predictions):
+    print(f"Text: '{text}' -> Predicted Label: {'contradiction' if pred == 1 else 'neutral'}")
+
+# Visualization: Word frequency plot
+word_counts = pd.Series(" ".join(df['cleaned_text']).split()).value_counts()
+word_counts.head(10).plot(kind='bar')
+plt.title('Top 10 Frequent Words')
+plt.show()
+
+# Expected Outcomes
+# The outputs will list detected inconsistencies, predictions for new data, and evaluate model performance.

@@ -1,100 +1,1000 @@
-The Great Wall of China is in Japan.|The Great Wall of China is in China.
-Albert Einstein was born in London.|Albert Einstein was born in Ulm, Germany.
-The Taj Mahal is located in Sri Lanka.|The Taj Mahal is located in India.
-The Statue of Liberty is in Los Angeles.|The Statue of Liberty is in New York.
-Venus is the closest planet to the Sun.|Mercury is the closest planet to the Sun.
-A square has three sides.|A square has four sides.
-The Pacific Ocean is the smallest ocean.|The Arctic Ocean is the smallest ocean.
-The capital of France is Rome.|The capital of France is Paris.
-Water freezes at 10째C.|Water freezes at 0째C.
-The human body has 400 bones.|The human body has 206 bones.
-Mars is the largest planet in the solar system.|Jupiter is the largest planet in the solar system.
-The capital of Australia is Sydney.|The capital of Australia is Canberra.
-Mount Everest is in the United States.|Mount Everest is in Nepal.
-The Sahara Desert is located in South America.|The Sahara Desert is located in Africa.
-The Moon is bigger than the Earth.|The Earth is bigger than the Moon.
-The Amazon rainforest is located in Africa.|The Amazon rainforest is located in South America.
-Shakespeare wrote 'The Odyssey.'|Homer wrote 'The Odyssey.'
-Thomas Edison discovered gravity.|Isaac Newton discovered gravity.
-Dinosaurs lived 500 years ago.|Dinosaurs lived millions of years ago.
-The human heart has 5 chambers.|The human heart has 4 chambers.
-The sun rises in the north.|The sun rises in the east.
-H2O is the formula for salt.|H2O is the formula for water.
-A triangle has four angles.|A triangle has three angles.
-The Great Barrier Reef is located in Europe.|The Great Barrier Reef is located in Australia.
-Albert Einstein invented the telephone.|Alexander Graham Bell invented the telephone.
-The Nile flows southward.|The Nile flows northward.
-The Wright brothers invented the television.|The Wright brothers invented the airplane.
-Oxygen makes up 90% of the Earth's atmosphere.|Oxygen makes up about 21% of the Earth's atmosphere.
-A hexagon has 5 sides.|A hexagon has 6 sides.
-Napoleon Bonaparte was born in Spain.|Napoleon Bonaparte was born in Corsica, France.
-The Eiffel Tower is made of wood.|The Eiffel Tower is made of iron.
-The Great Pyramid of Giza is in India.|The Great Pyramid of Giza is in Egypt.
-The capital of Japan is Seoul.|The capital of Japan is Tokyo.
-Whales are fish.|Whales are mammals.
-Saturn is the only planet with rings.|Uranus and Neptune also have rings.
-The Amazon River flows through Canada.|The Amazon River flows through Brazil.
-Spiders are insects.|Spiders are arachnids.
-Beethoven was a famous painter.|Beethoven was a famous composer.
-The Leaning Tower of Pisa is in France.|The Leaning Tower of Pisa is in Italy.
-Pluto is the largest planet in the solar system.|Jupiter is the largest planet in the solar system.
-The English alphabet has 30 letters.|The English alphabet has 26 letters.
-Penguins can fly.|Penguins cannot fly.
-The Arctic is the hottest place on Earth.|The Arctic is one of the coldest places on Earth.
-The moon produces its own light.|The moon reflects light from the sun.
-Christopher Columbus discovered America in 1800.|Christopher Columbus discovered America in 1492.
-Gold is a liquid at room temperature.|Gold is a solid at room temperature.
-The speed of light is 300 km/s.|The speed of light is 300,000 km/s.
-A year has 364 days.|A year has 365 days.
-The deepest ocean trench is the Atlantic Trench.|The deepest ocean trench is the Mariana Trench.
-Koalas are bears.|Koalas are marsupials.
-The longest bone in the human body is the spine.|The longest bone in the human body is the femur.
-The Pyramids were built 100 years ago.|The Pyramids were built thousands of years ago.
-Julius Caesar was the first emperor of Rome.|Augustus was the first emperor of Rome.
-Photosynthesis occurs in animal cells.|Photosynthesis occurs in plant cells.
-Lightning travels slower than sound.|Lightning travels faster than sound.
-Diamonds are made of coal.|Diamonds are made of carbon.
-Rainbows have 5 colors.|Rainbows have 7 colors.
-Ostriches are the fastest animals on Earth.|Cheetahs are the fastest animals on Earth.
-Watermelons grow on trees.|Watermelons grow on vines.
-Albert Einstein developed the law of gravity.|Albert Einstein developed the theory of relativity.
-A lunar eclipse occurs when the sun is between the Earth and the moon.|A lunar eclipse occurs when the Earth is between the sun and the moon.
-Jupiter has no moons.|Jupiter has 79 known moons.
-Sharks are mammals.|Sharks are fish.
-The human brain weighs 10 kilograms.|The human brain weighs about 1.4 kilograms.
-The Milky Way is a star.|The Milky Way is a galaxy.
-Venus is known as the red planet.|Mars is known as the red planet.
-Rain falls upward.|Rain falls downward.
-Bananas are vegetables.|Bananas are fruits.
-The capital of the United States is Chicago.|The capital of the United States is Washington, D.C.
-The human body is 50% water.|The human body is about 60% water.
-Eagles can breathe underwater.|Eagles cannot breathe underwater.
-The boiling point of water is 150째C.|The boiling point of water is 100째C.
-The Great Wall of China is visible from space with the naked eye.|The Great Wall of China is not visible from space with the naked eye.
-Humans have gills for breathing underwater.|Humans use lungs for breathing air.
-A spider has 10 legs.|A spider has 8 legs.
-Mount Everest is 20,000 feet tall.|Mount Everest is 29,032 feet tall.
-A century is 10 years.|A century is 100 years.
-The heart pumps blood to the lungs only.|The heart pumps blood to the entire body.
-The largest mammal is the elephant.|The largest mammal is the blue whale.
-Coal is a renewable resource.|Coal is a non-renewable resource.
-Butterflies are born as adult insects.|Butterflies undergo metamorphosis.
-The periodic table has 150 elements.|The periodic table has 118 elements.
-Edison discovered electricity.|Electricity was studied by multiple scientists, including Benjamin Franklin.
-A marathon is 5 kilometers long.|A marathon is 42.195 kilometers long.
-Chocolate grows underground.|Chocolate comes from cocoa trees.
-The Leaning Tower of Pisa is perfectly straight.|The Leaning Tower of Pisa leans.
-The Earth has 3 continents.|The Earth has 7 continents.
-Camels store water in their humps.|Camels store fat in their humps.
-Mercury is the hottest planet.|Venus is the hottest planet.
-Bees make honey from dirt.|Bees make honey from nectar.
-The moon orbits the sun.|The moon orbits the Earth.
-Cats have 5 legs.|Cats have 4 legs.
-The fastest land animal is the ostrich.|The fastest land animal is the cheetah.
-Pluto is the center of our solar system.|The sun is the center of our solar system.
-A meter is longer than a kilometer.|A kilometer is longer than a meter.
-Antarctica is the hottest continent.|Antarctica is the coldest continent.
-Dolphins are fish.|Dolphins are mammals.
-Lightning strikes only the ground.|Lightning can strike the ground, trees, and buildings.
-The internet was invented in 1800.|The internet was invented in the late 20th century.
-Saturn is the closest planet to Earth.|Venus is the closest planet to Earth.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
+Input: ('This phone works with both Android and iOS.', 'This phone does not work with Android.') -> Target: Resolve: This phone does not work with Android.
+Input: ('The train arrives at 5:00 PM.', 'The train arrives at 4:30 PM.') -> Target: Resolve: The train arrives at 4:30 PM.
+Input: ('This laptop has 16GB of RAM.', 'This laptop has 8GB of RAM.') -> Target: Resolve: This laptop has 8GB of RAM.
+Input: ('This book costs $20.', 'This book costs $25.') -> Target: Resolve: This book costs $25.
+Input: ('Barack Obama became president before Donald Trump.', 'Donald Trump became president before Barack Obama.') -> Target: Resolve: Donald Trump became president before Barack Obama.
+Input: ('World War II occurred after World War I.', 'World War II occurred before World War I.') -> Target: Resolve: World War II occurred before World War I.
+Input: ('The cat is sleeping under the table.', 'The table is empty.') -> Target: Resolve: The table is empty.
+Input: ('She passed the exam.', 'She failed the exam.') -> Target: Resolve: She failed the exam.
+Input: ('Neil Armstrong was the first person on the moon.', 'Buzz Aldrin was the first person on the moon.') -> Target: Resolve: Buzz Aldrin was the first person on the moon.
+Input: ('The Amazon is the longest river in the world.', 'The Nile is the longest river in the world.') -> Target: Resolve: The Nile is the longest river in the world.
+Input: ('He did not commit any crime.', 'He is accused of a crime.') -> Target: Resolve: He is accused of a crime.
+Input: ('The project was completed successfully.', 'The project failed.') -> Target: Resolve: The project failed.
+Input: ('The train departs at 6:00 PM.', 'The train departs at 7:00 PM.') -> Target: Resolve: The train departs at 7:00 PM.
+Input: ('Mozart was born in Salzburg.', 'Mozart was born in Vienna.') -> Target: Resolve: Mozart was born in Vienna.
+Input: ('The Earth is flat.', 'The Earth is a sphere.') -> Target: Resolve: The Earth is a sphere.
+Input: ('Water boils at 90캜 at sea level.', 'Water boils at 100캜 at sea level.') -> Target: Resolve: Water boils at 100캜 at sea level.
+Input: ('COVID-19 is caused by bacteria.', 'COVID-19 is caused by a virus.') -> Target: Resolve: COVID-19 is caused by a virus.
+Input: ('The Eiffel Tower is in Berlin.', 'The Eiffel Tower is in Paris.') -> Target: Resolve: The Eiffel Tower is in Paris.
+Input: ('The Mona Lisa was painted by Da Vinci.', 'The Mona Lisa was painted by Picasso.') -> Target: Resolve: The Mona Lisa was painted by Picasso.
+Input: ('Python is a programming language.', 'Python is a snake.') -> Target: Resolve: Python is a snake.
+Input: ('The weather is hot today.', 'The weather is warm today.') -> Target: Resolve: The weather is warm today.
+Input: ('She is very intelligent.', 'She is very smart.') -> Target: Resolve: She is very smart.
+Input: ('A dog is an animal.', 'A dog is not a mammal.') -> Target: Resolve: A dog is not a mammal.
+Input: ('Albert Einstein was a physicist.', 'Albert Einstein was not a scientist.') -> Target: Resolve: Albert Einstein was not a scientist.
+Input: ('Tom is the father of Jerry.', 'Jerry is not the child of Tom.') -> Target: Resolve: Jerry is not the child of Tom.
+Input: ('The sun sets in the west.', 'The west is not where the sun sets.') -> Target: Resolve: The west is not where the sun sets.
